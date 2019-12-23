@@ -11,6 +11,6 @@ class App < Sinatra::Base
     "My hometown is Tampa "
   end
   get '/favorite-song' do
-    "Hell, World!"
+    "My favorite song is Whole Lotta Love"
   end
 end
